@@ -1,5 +1,5 @@
 3.a.d Connor McGlynn
 
-React tutorial from the net ninja
+React Tutorial from The Net Ninja
 
 https://github.com/connormcglynn/React-Tutorial
